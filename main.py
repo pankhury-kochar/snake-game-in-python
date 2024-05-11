@@ -1,5 +1,5 @@
 # Simple Snake Game in Python
-# By Ishan Singh
+# By Pankhury kochar
 
 import turtle
 import time
